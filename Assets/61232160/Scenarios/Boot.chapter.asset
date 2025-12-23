@@ -1318,9 +1318,84 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u7F85\u76E4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Gemini_Generated_Image_dnap3ednap3ednap.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u8173\u5370"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Gemini_Generated_Image_zbe0dwzbe0dwzbe0.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u5BF6\u77F3"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Gemini_Generated_Image_4v1gtx4v1gtx4v1g.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u5BC6\u5BA42"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Gemini_Generated_Image_qpn02kqpn02kqpn0.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u6838\u5FC3"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Gemini_Generated_Image_wxfgnawxfgnawxfg.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232160/Scenarios/61232160.xls:Texture
     type: 1
-    textLength: 253
+    textLength: 489
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: eae4f770194cbbd4d982f0e9fad16be0, type: 3}
   - rows:
