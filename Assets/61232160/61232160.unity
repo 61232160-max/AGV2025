@@ -3049,7 +3049,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 22400002, guid: 12180cc1a511edc47a26c5ea6700635a, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 22400002, guid: 12180cc1a511edc47a26c5ea6700635a, type: 3}
       propertyPath: m_AnchorMin.x
@@ -3057,15 +3057,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 22400002, guid: 12180cc1a511edc47a26c5ea6700635a, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 22400002, guid: 12180cc1a511edc47a26c5ea6700635a, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 800
+      value: 1100
       objectReference: {fileID: 0}
     - target: {fileID: 22400002, guid: 12180cc1a511edc47a26c5ea6700635a, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 96
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 22400002, guid: 12180cc1a511edc47a26c5ea6700635a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3101,7 +3101,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 22400002, guid: 12180cc1a511edc47a26c5ea6700635a, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 48
+      value: -100
       objectReference: {fileID: 0}
     - target: {fileID: 22400002, guid: 12180cc1a511edc47a26c5ea6700635a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -4335,7 +4335,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 600, y: 96}
+  m_SizeDelta: {x: 600, y: 200}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &232438917
 MonoBehaviour:
@@ -5670,9 +5670,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.00016483443
+    x: 0.00015056068
     y: 0
-    width: 0.9996703
+    width: 0.9996989
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -27714,9 +27714,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.00016483443
+    x: 0.00015056068
     y: 0
-    width: 0.9996703
+    width: 0.9996989
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
